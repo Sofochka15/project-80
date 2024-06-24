@@ -1,0 +1,71 @@
+button{
+    margin-left: 35px;
+}
+#num1{
+    width: 115px;
+    height: 36px;
+    background-color: #ffd43a;
+    color: black;
+    border: #ffd43a;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+#num1:hover{
+    background-color: #8cff98;
+    border: #8cff98;
+}
+#num2{
+    width: 285px;
+    height: 36px;
+    background-color: black;
+    color: white;
+    border:  black;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+#num2:hover{
+    background-color: #d3d3d3;
+    color: black;
+    border: #d3d3d3;
+}
+#num3{
+    width: 336px;
+    height: 36px;
+    background-color: #b43aff;
+    color: white;
+    border: 1px #b43aff;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+#num3:hover{
+    background-color: #ff3ae0;
+    border: #ff3ae0;
+}
+#num4{
+    width: 441px;
+    height: 36px;
+    background-color: #e9e9e9;
+    color: black;
+    border: 1px #e9e9e9;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+#num4:hover{
+    background-color: #ababab;
+    border: #ababab;
+    border-radius: 2px;
+    font-size: 18px;
+}
+#num5{
+    width: 559px;
+    height: 36px;
+    background-color: #ffd43a;
+    color: black;
+    border: 1px #ffd43a;
+    border-radius: 10px;
+}
+#num5:hover{
+    border-radius: 30px;
+    height: 58px;
+    font-size: 20px;
+}
